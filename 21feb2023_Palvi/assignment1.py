@@ -20,7 +20,7 @@ def series_sum(n):
     return sum
 
 # Set the value of `n` 
-n = 1000
+n = 100
 # Call the function and store the result in the variable `result`
 result = series_sum(n)
 # Print the result 
